@@ -6,6 +6,9 @@ public class Ejerm1 {
 		System.out.println("hola mundo");
 		System.err.println("mal");
 		String nombre = "";
+		if(nombre == "Pez") {
+			System.out.println("es un pez");
+		}
 	}
 
 }
